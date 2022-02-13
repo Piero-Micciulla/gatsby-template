@@ -1,0 +1,78 @@
+- name: Represent
+  url: https://blissful-pare-055cc5.netlify.app/
+  description: Gatsby/Shopify headless e-commerce.
+  status: live
+  tags:
+    - Shopify
+    - Contentful
+    - Gatsby
+  icon: website
+  image: images/represent.png
+
+- name: Stripe2be
+  url: https://www.stripe2be.com/
+  description: E-commerce website in Shopify.
+  status: live
+  tags:
+    - Shopify
+    - HTML/CSS
+    - JS
+    - Liquid
+  icon: website
+  image: images/stripe2be.png
+
+- name: Looking for Cloudz
+  url: https://looking-for-cloudz.herokuapp.com/
+  description: PWA Weather App.
+  status: live
+  tags:
+    - React
+    - API
+  icon: website
+  image: images/looking-for-cloudz.png
+
+- name: NewSonic
+  url: https://newsonic.herokuapp.com/
+  description: Voice recognition news app.
+  status: live
+  tags:
+    - React
+    - API
+    - Alan AI
+  icon: website
+  image: images/newsonic.png
+
+- name: Watch it!
+  url: https://rent-a-watch.herokuapp.com/
+  description: E-commerce built with Rails.
+  status: live
+  tags:
+    - JS
+    - Ruby on Rails
+    - HTML/CSS
+  icon: website
+  image: images/watch-it.png
+
+- name: Ugly Foods
+  url: https://ugly-foodz.herokuapp.com/
+  description: E-commerce built with Rails for groceries stores in Amsterdam.
+  status: live
+  tags:
+    - JS
+    - Ruby on Rails
+    - HTML/CSS
+  icon: website
+  image: images/ugly-foodz.png
+
+- name: Flyghtsy
+  url: https://newsonic.herokuapp.com/
+  description: Airline reviews website.
+  status: live
+  tags:
+    - React
+    - Ruby on Rails
+    - API
+  icon: website
+  image: images/flightsy.png
+
+  

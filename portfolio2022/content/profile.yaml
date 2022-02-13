@@ -1,0 +1,33 @@
+- profile:
+  initials: PM
+  name: Pierangelo Micciulla
+  profession: Web Developer
+  image: images/profile.jpg
+  location: Amsterdam, Netherlands
+  relocation: true
+  company: Endeavour
+  for_hire: true
+  focus: Learning Gatsby
+  focus_url: https://gatsbyjs.org
+  about: |
+    Bring to the table a wide range of skills. Always looking for the next technology to learn and tool to master.
+
+    A young professional with a passion for code looking to polish his skills and apply tech solution to create his own place in the digital web.
+  skills:
+    - JavaScript
+    - HTML / CSS
+    - Ruby on Rails
+  tools:
+    - React
+    - Angular
+    - VSCode
+    - Gatsby
+    - Headless
+    - Wordpress
+    - Shopify
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
+
